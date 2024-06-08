@@ -19,8 +19,7 @@ function App() {
     estacion: "",
     edad: "",
     estilo: "",
-    ropa: ""
-    // ... potentially many more individual properties
+    ropa: "" 
   });
   // Toma los valores ingresados en el select
   const fetchImages = async () => {
