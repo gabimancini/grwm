@@ -20,8 +20,7 @@ function App() {
     edad: "",
     estilo: "",
     ropa: "" 
-  });
-  // Toma los valores ingresados en el select
+  }); 
   const fetchImages = async () => {
     try {
 
