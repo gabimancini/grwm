@@ -92,13 +92,18 @@ function App() {
           </select>
           <select name="estilo" onChange={handleChangeSelected}>
             <option defaultValue>Estilo</option>
+            <option value="corto">mediano</option>
             <option value="corto">corto</option>
             <option value="largo">largo</option>
           </select>
           <select name="ropa" onChange={handleChangeSelected}>
             <option defaultValue>Prenda</option>
-            <option value="shirt">remera</option>
+            <option value="t-shirt">remera</option>
             <option value="pants">pantalon</option>
+            <option value="skirt">pollera</option>
+            <option value="short">short</option>
+            <option value="shirt">camisa</option>
+            <option value="dress">vestidos</option>
           </select>
         </div>
     
