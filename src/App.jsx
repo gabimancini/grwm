@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import data from './../api/images';
-
+import Header from "./Header";
 export default function Home() {
     const [filters, setFilters] = useState({
         evento: '',
@@ -33,6 +33,8 @@ export default function Home() {
     }, [filters]);
 
     return (
+      <>
+      <Header />
         <div>
             <h1>Buscar Imágenes</h1>
             <div className='search-section'>
@@ -85,5 +87,6 @@ export default function Home() {
                 ))}
             </div> 
         </div>
+        </>
     );
 }
