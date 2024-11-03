@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "evento": "Informal",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Camisa",
+        "image_url":"https://github.com/gabimancini/grwm/blob/main/uploads/camisa_1.jpeg?raw=true"
+    },
+    {
+        "id": 2,
+        "evento": "Informal",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_1.jpeg?raw=true"
+    },
+    {
+        "id": 3,
+        "evento": "Informal",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+         "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_2.jpeg?raw=true"
+    },
+    {
+        "id": 4,
+        "evento": "Informal",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_1.jpeg?raw=true"
+    },
+    {
+        "id": 5,
+       "evento": "Informal",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_2.jpeg?raw=true"
+    }
+]
