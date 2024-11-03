@@ -39,18 +39,18 @@ export default function Home() {
             <select name="prenda" onChange={handleChangeSelected}>
             <option defaultValue>Prenda</option>
             <option value="Abrigo">Abrigo</option>
-            <option value="Remera">Remera</option>
+            <option value="Camisa">Camisa</option>
             <option value="Pantalon">Pantalon</option>
             <option value="Pollera">Pollera</option>
+            <option value="Remera">Remera</option>
             <option value="Short">Short</option>
-            <option value="Camisa">Camisa</option>
             <option value="Vestidos">Vestidos</option>
           </select>
           <select name="evento" onChange={handleChangeSelected}>
             <option disabled defaultValue>Evento</option>
+            <option value="Elegante">Elegante</option>
             <option value="Formal">Formal</option>
             <option value="Informal">Informal</option>
-            <option value="Elegante">Elegante</option>
             <option value="Sport">Sport</option>
 
           </select>
@@ -73,8 +73,8 @@ export default function Home() {
           </select>
           <select name="estilo" onChange={handleChangeSelected}>
             <option defaultValue>Estilo</option>
-            <option value="Mediano">Mediano</option>
             <option value="Corto">Corto</option>
+            <option value="Mediano">Mediano</option>
             <option value="Largo">Largo</option>
           </select>
    

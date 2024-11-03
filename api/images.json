@@ -43,5 +43,86 @@
         "estilo": "Largo",
         "prenda": "Pantalon",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_2.jpeg?raw=true"
+    },
+    {
+        "id": 6,
+       "evento": "Formal",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_3.jpeg?raw=true"
+    },
+    {
+        "id": 7,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_4.jpeg?raw=true"
+    },
+    {
+        "id": 8,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_4.jpeg?raw=true"
+    },
+    {
+        "id": 9,
+       "evento": "Formal",
+        "estacion": "Invierno",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_1.jpeg?raw=true"
+    },
+    {
+        "id": 10,
+       "evento": "Informal",
+        "estacion": "Invierno",
+        "edad": "46-55",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_2.jpeg?raw=true"
+    } ,
+    {
+        "id": 11,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Short",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_1.jpeg?raw=true"
+    },
+    {
+        "id": 12,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Short",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_2.jpeg?raw=true"
+    },
+    {
+        "id": 12,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "25-35",
+        "estilo": "Corto",
+        "prenda": "Short",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_3.jpeg?raw=true"
+    },
+    {
+        "id": 11,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_1.jpeg?raw=true"
     }
 ]
