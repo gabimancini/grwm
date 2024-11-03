@@ -102,27 +102,136 @@
         "id": 12,
        "evento": "Informal",
         "estacion": "Verano",
-        "edad": "15-25",
+        "edad": "26-35",
         "estilo": "Corto",
         "prenda": "Short",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_2.jpeg?raw=true"
     },
     {
-        "id": 12,
+        "id": 13,
        "evento": "Informal",
         "estacion": "Verano",
-        "edad": "25-35",
+        "edad": "15-25",
         "estilo": "Corto",
         "prenda": "Short",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_3.jpeg?raw=true"
     },
     {
-        "id": 11,
+        "id": 14,
        "evento": "Informal",
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Corto",
         "prenda": "Pollera",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_1.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 15,
+       "evento": "Formal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_2.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 16,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_3.jpeg?raw=true"
+    },
+    {
+        "id": 16,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_1.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 17,
+       "evento": "Formal",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_2.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 18,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_3.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 19,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_4.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 20,
+       "evento": "Formal",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_5.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 21,
+       "evento": "Formal",
+        "estacion": "Verano",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_6.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 22,
+       "evento": "Informal",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 23,
+       "evento": "Formal",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 24,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_9.jpeg?raw=true"
     }
 ]

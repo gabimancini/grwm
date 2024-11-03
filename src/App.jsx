@@ -46,20 +46,25 @@ export default function Home() {
             <option value="Short">Short</option>
             <option value="Vestidos">Vestidos</option>
           </select>
-          <select name="evento" onChange={handleChangeSelected}>
-            <option disabled defaultValue>Evento</option>
-            <option value="Elegante">Elegante</option>
-            <option value="Formal">Formal</option>
-            <option value="Informal">Informal</option>
-            <option value="Sport">Sport</option>
-
-          </select>
           <select name="estacion" onChange={handleChangeSelected}>
             <option defaultValue>Estación del año</option>
             <option value="Primavera">Primavera</option>
             <option value="Verano">Verano</option>
             <option value="Otonio">Otoño</option>
             <option value="Invierno">Invierno</option>
+          </select>
+          <select name="estilo" onChange={handleChangeSelected}>
+            <option defaultValue>Estilo</option>
+            <option value="Corto">Corto</option>
+            <option value="Mediano">Mediano</option>
+            <option value="Largo">Largo</option>
+          </select>
+          <select name="evento" onChange={handleChangeSelected}>
+            <option  defaultValue>Evento</option>
+            <option value="Elegante">Elegante</option>
+            <option value="Formal">Formal</option>
+            <option value="Informal">Informal</option>
+            <option value="Sport">Sport</option>
           </select>
           <select name="edad" onChange={handleChangeSelected}>
             <option defaultValue>Edad</option>
@@ -71,13 +76,6 @@ export default function Home() {
             <option value="66-75">66-75</option>
             <option value="76-85">76-85</option>
           </select>
-          <select name="estilo" onChange={handleChangeSelected}>
-            <option defaultValue>Estilo</option>
-            <option value="Corto">Corto</option>
-            <option value="Mediano">Mediano</option>
-            <option value="Largo">Largo</option>
-          </select>
-   
         </div>
             <div className="images">
                 {filteredImages.map((image) => (
