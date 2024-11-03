@@ -146,7 +146,7 @@
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_3.jpeg?raw=true"
     },
     {
-        "id": 16,
+        "id": 17,
        "evento": "Elegante",
         "estacion": "Verano",
         "edad": "15-25",
@@ -156,7 +156,7 @@
     }
     ,
     {
-        "id": 17,
+        "id": 18,
        "evento": "Formal",
         "estacion": "Verano",
         "edad": "26-35",
@@ -166,7 +166,7 @@
     }
     ,
     {
-        "id": 18,
+        "id": 19,
        "evento": "Elegante",
         "estacion": "Verano",
         "edad": "15-25",
@@ -176,7 +176,7 @@
     }
     ,
     {
-        "id": 19,
+        "id": 20,
        "evento": "Elegante",
         "estacion": "Verano",
         "edad": "26-35",
@@ -186,7 +186,7 @@
     }
     ,
     {
-        "id": 20,
+        "id": 21,
        "evento": "Formal",
         "estacion": "Verano",
         "edad": "26-35",
@@ -196,7 +196,7 @@
     }
     ,
     {
-        "id": 21,
+        "id": 22,
        "evento": "Formal",
         "estacion": "Verano",
         "edad": "36-45",
@@ -206,7 +206,7 @@
     }
     ,
     {
-        "id": 22,
+        "id": 23,
        "evento": "Informal",
         "estacion": "Verano",
         "edad": "26-35",
@@ -216,7 +216,7 @@
     }
     ,
     {
-        "id": 23,
+        "id": 24,
        "evento": "Formal",
         "estacion": "Verano",
         "edad": "15-25",
@@ -226,7 +226,7 @@
     }
     ,
     {
-        "id": 24,
+        "id": 25,
        "evento": "Elegante",
         "estacion": "Verano",
         "edad": "26-35",
