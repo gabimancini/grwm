@@ -663,8 +663,8 @@
         "estacion": "Verano",
         "edad": "36-45",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_1.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_1.jpeg?raw=true"
     }
     ,
     {
@@ -673,8 +673,8 @@
         "estacion": "Verano",
         "edad": "26-35",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_2.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_2.jpeg?raw=true"
     }
     ,
     {
@@ -683,8 +683,8 @@
         "estacion": "Primavera",
         "edad": "36-45",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_3.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_3.jpeg?raw=true"
     }
     ,
     {
@@ -693,8 +693,8 @@
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_4.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_4.jpeg?raw=true"
     }
     ,
     {
@@ -703,8 +703,8 @@
         "estacion": "Verano",
         "edad": "25-35",
         "estilo": "Medio",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_5.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_5.jpeg?raw=true"
     }
     ,
     {
@@ -713,8 +713,8 @@
         "estacion": "Primavera",
         "edad": "15-25",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_6.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_6.jpeg?raw=true"
     } ,
     {
         "id": 74,
@@ -722,8 +722,8 @@
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_7.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_7.jpeg?raw=true"
     }
     ,
     {
@@ -732,8 +732,8 @@
         "estacion": "Verano",
         "edad": "26-35",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_8.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_8.jpeg?raw=true"
     }
     ,
     {
@@ -742,8 +742,8 @@
         "estacion": "Primavera",
         "edad": "15-25",
         "estilo": "Medio",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_9.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_9.jpeg?raw=true"
     }
     ,
     {
@@ -752,8 +752,8 @@
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_10.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_10.jpeg?raw=true"
     }
     ,
     {
@@ -762,8 +762,8 @@
         "estacion": "Verano",
         "edad": "26-35",
         "estilo": "Largo",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_11.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_11.jpeg?raw=true"
     }
     ,
     {
@@ -772,8 +772,8 @@
         "estacion": "Primavera",
         "edad": "26-35",
         "estilo": "Corto",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_12.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_12.jpeg?raw=true"
     } ,
     {
         "id": 80,
@@ -781,8 +781,8 @@
         "estacion": "Verano",
         "edad": "26-35",
         "estilo": "Corto",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_13.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_13.jpeg?raw=true"
     }
     ,
     {
@@ -791,8 +791,8 @@
         "estacion": "Primavera",
         "edad": "15-25",
         "estilo": "Corto",
-        "prenda": "Vestido",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_14.jpeg?raw=true"
+        "prenda": "Vestidos",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_14.jpeg?raw=true"
     }
 
 ]
