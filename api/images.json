@@ -95,7 +95,7 @@
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Corto",
-        "prenda": "Short",
+        "prenda": "Pantalon",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_1.jpeg?raw=true"
     },
     {
@@ -104,8 +104,8 @@
         "estacion": "Verano",
         "edad": "26-35",
         "estilo": "Corto",
-        "prenda": "Short",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_2.jpeg?raw=true"
+        "prenda": " ",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/ _2.jpeg?raw=true"
     },
     {
         "id": 13,
@@ -113,7 +113,7 @@
         "estacion": "Verano",
         "edad": "15-25",
         "estilo": "Corto",
-        "prenda": "Short",
+        "prenda": " ",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/short_3.jpeg?raw=true"
     },
     {
@@ -234,4 +234,565 @@
         "prenda": "Remera",
        "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_9.jpeg?raw=true"
     }
+    ,
+    {
+        "id": 26,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_4.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 27,
+       "evento": "Formal",
+        "estacion": "Otonio",
+        "edad": "36-45",
+        "estilo": "Mediano",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_5.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 28,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_6.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 29,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 30,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 31,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pollera_9.jpeg?raw=true"
+    },
+    {
+        "id": 32,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_3.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 33,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_4.jpeg?raw=true"
+    },
+    {
+        "id": 34,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_5.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 35,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_6.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 36,
+       "evento": "Sport",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 37,
+       "evento": "Sport",
+        "estacion": "Invierno",
+        "edad": "35-46",
+        "estilo": "Corto",
+        "prenda": "Pollera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/canguro_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 38,
+       "evento": "Sport",
+        "estacion": "Invierno",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_6.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 39,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 40,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 41,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_9.jpeg?raw=true"
+    }  ,
+    {
+        "id": 42,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_10.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 43,
+       "evento": "Sport",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Pantalon",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/pantalon_11.jpeg?raw=true"
+    } ,
+    {
+        "id": 44,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_10.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 45,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/premera_11.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 46,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_12.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 47,
+       "evento": "Sport",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/premera_13.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 48,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/remera_14.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 49,
+       "evento": "Formal",
+        "estacion": "Otonio",
+        "edad": "36-45",
+        "estilo": "Corto",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/premera_15.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 50,
+       "evento": "Sport",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Remera",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/premera_16.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 51,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_3.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 52,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_4.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 52,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_5.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 53,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_6.jpeg?raw=true"
+    }   ,
+    {
+        "id": 54,
+       "evento": "Elegante",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_6.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 55,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 56,
+       "evento": "Formal",
+        "estacion": "Otonio",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 57,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_9.jpeg?raw=true"
+    }  ,
+    {
+        "id": 58,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_10.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 59,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_11.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 60,
+       "evento": "Elegante",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_12.jpeg?raw=true"
+    },
+    {
+        "id": 61,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_13.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 62,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_14.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 63,
+       "evento": "Formal",
+        "estacion": "Invierno",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_15.jpeg?raw=true"
+    },
+    {
+        "id": 64,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_16.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 65,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_17.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 66,
+       "evento": "Formal",
+        "estacion": "Invierno",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_18.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 67,
+       "evento": "Formal",
+        "estacion": "Invierno",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Abrigo",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/saco_19.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 68,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_1.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 69,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_2.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 70,
+       "evento": "Formal",
+        "estacion": "Primavera",
+        "edad": "36-45",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_3.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 71,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_4.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 72,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "25-35",
+        "estilo": "Medio",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_5.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 73,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_6.jpeg?raw=true"
+    } ,
+    {
+        "id": 74,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_7.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 75,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_8.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 76,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Medio",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_9.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 77,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "15-25",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_10.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 78,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Largo",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_11.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 79,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_12.jpeg?raw=true"
+    } ,
+    {
+        "id": 80,
+       "evento": "Elegante",
+        "estacion": "Verano",
+        "edad": "26-35",
+        "estilo": "Corto",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_13.jpeg?raw=true"
+    }
+    ,
+    {
+        "id": 81,
+       "evento": "Elegante",
+        "estacion": "Primavera",
+        "edad": "15-25",
+        "estilo": "Corto",
+        "prenda": "Vestido",
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/vestido_14.jpeg?raw=true"
+    }
+
 ]

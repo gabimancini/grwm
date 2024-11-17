@@ -42,10 +42,9 @@ export default function Home() {
             <option defaultValue>Prenda</option>
             <option value="Abrigo">Abrigo</option>
             <option value="Camisa">Camisa</option>
-            <option value="Pantalon">Pantalon</option>
+            <option value="Pantalon">Pantalón</option>
             <option value="Pollera">Pollera</option>
             <option value="Remera">Remera</option>
-            <option value="Short">Short</option>
             <option value="Vestidos">Vestidos</option>
           </select>
           <select name="estacion" onChange={handleChangeSelected}>
@@ -74,9 +73,6 @@ export default function Home() {
             <option value="26-35">26-35</option>
             <option value="36-45">36-45</option>
             <option value="46-55">46-55</option>
-            <option value="56-65">56-65</option>
-            <option value="66-75">66-75</option>
-            <option value="76-85">76-85</option>
           </select>
         </div>
             <div className="images">
