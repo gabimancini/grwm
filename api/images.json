@@ -664,7 +664,7 @@
         "edad": "36-45",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_1.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_1.jpeg?raw=true"
     }
     ,
     {
@@ -674,7 +674,7 @@
         "edad": "26-35",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_2.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_2.jpeg?raw=true"
     }
     ,
     {
@@ -684,7 +684,7 @@
         "edad": "36-45",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_3.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_3.jpeg?raw=true"
     }
     ,
     {
@@ -694,7 +694,7 @@
         "edad": "15-25",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_4.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_4.jpeg?raw=true"
     }
     ,
     {
@@ -704,7 +704,7 @@
         "edad": "25-35",
         "estilo": "Medio",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_5.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_5.jpeg?raw=true"
     }
     ,
     {
@@ -714,7 +714,7 @@
         "edad": "15-25",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_6.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_6.jpeg?raw=true"
     } ,
     {
         "id": 74,
@@ -723,7 +723,7 @@
         "edad": "15-25",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_7.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_7.jpeg?raw=true"
     }
     ,
     {
@@ -733,7 +733,7 @@
         "edad": "26-35",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_8.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_8.jpeg?raw=true"
     }
     ,
     {
@@ -743,7 +743,7 @@
         "edad": "15-25",
         "estilo": "Medio",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_9.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_9.jpeg?raw=true"
     }
     ,
     {
@@ -753,7 +753,7 @@
         "edad": "15-25",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_10.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_10.jpeg?raw=true"
     }
     ,
     {
@@ -763,7 +763,7 @@
         "edad": "26-35",
         "estilo": "Largo",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_11.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_11.jpeg?raw=true"
     }
     ,
     {
@@ -773,7 +773,7 @@
         "edad": "26-35",
         "estilo": "Corto",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_12.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_12.jpeg?raw=true"
     } ,
     {
         "id": 80,
@@ -782,7 +782,7 @@
         "edad": "26-35",
         "estilo": "Corto",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_13.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_13.jpeg?raw=true"
     }
     ,
     {
@@ -792,7 +792,7 @@
         "edad": "15-25",
         "estilo": "Corto",
         "prenda": "Vestidos",
-       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestidos_14.jpeg?raw=true"
+       "image_url": "https://github.com/gabimancini/grwm/blob/main/uploads/Vestido_14.jpeg?raw=true"
     }
 
 ]
